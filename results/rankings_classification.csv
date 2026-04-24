@@ -1,0 +1,10 @@
+target,rank,model,split_type,n_samples,accuracy,f1,log_loss,brier_score,ece,auc,is_winner,is_acceptable,thompson_suitable
+Phase_Sep,1,GBT_Uncalibrated,standard_cv,147,1.0,1.0,0.002682,9.3e-05,0.002633,1.0,True,True,False
+Phase_Sep,2,RF_Uncalibrated,standard_cv,147,1.0,1.0,0.040607,0.004858,0.037789,1.0,False,False,False
+Phase_Sep,3,RF_Calibrated,standard_cv,147,0.986395,0.973684,0.101697,0.021756,0.087457,1.0,False,False,False
+Phase_Sep,4,SVM_Platt,standard_cv,147,0.972789,0.948718,0.126681,0.029954,0.015887,0.972222,False,False,False
+Phase_Sep,5,GBT_Calibrated,standard_cv,147,0.979592,0.961039,0.161592,0.036199,0.113545,0.997863,False,False,False
+Phase_Sep,6,GPC_ARD_Tuned,standard_cv,147,0.965986,0.935065,0.24851,0.061837,0.17864,0.995252,False,False,False
+Phase_Sep,7,GPC_RBF,standard_cv,147,0.945578,0.891892,0.31725,0.085376,0.220372,0.995726,False,False,False
+Phase_Sep,8,GPC_Matern25,standard_cv,147,0.945578,0.891892,0.324898,0.088454,0.225915,0.995726,False,False,False
+Phase_Sep,9,GPC_Matern15,standard_cv,147,0.959184,0.916667,0.329198,0.090119,0.22921,0.995726,False,False,False

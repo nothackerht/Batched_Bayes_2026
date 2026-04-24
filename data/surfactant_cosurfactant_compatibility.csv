@@ -1,0 +1,10 @@
+,Cremophor_EL,Ethanol,Glycerin,Labrasol,PEG_400,Propylene_Glycol,Transcutol_HP,Tween_20,Tween_80
+Cremophor_EL,1.0,,,1.0,,,1.0,1.0,1.0
+Ethanol,,1.0,,1.0,,,1.0,1.0,1.0
+Glycerin,,,1.0,0.0,,,1.0,0.0,0.0
+Labrasol,1.0,1.0,0.0,1.0,1.0,1.0,1.0,,
+PEG_400,,,,1.0,1.0,,1.0,1.0,0.0
+Propylene_Glycol,,,,1.0,,1.0,1.0,1.0,1.0
+Transcutol_HP,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Tween_20,1.0,1.0,0.0,,1.0,1.0,1.0,1.0,0.0
+Tween_80,1.0,1.0,0.0,,0.0,1.0,1.0,0.0,1.0
